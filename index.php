@@ -1,5 +1,5 @@
 <?php 
 
-echo "Hello World teste"
+echo "Good Luck Sam!"
 
 ?>
